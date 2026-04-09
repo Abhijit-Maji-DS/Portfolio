@@ -7,20 +7,19 @@ const skillCategories = [
     icon: Code,
     title: 'Frontend Development',
     skills: [
-      { name: 'React / Next.js', level: 95 },
-      { name: 'JavaScript', level: 90 },
-      { name: 'Tailwind CSS', level: 95 },
-      { name: 'Framer Motion', level: 85 },
+      { name: 'React.js', level: 75 },
+      { name: 'JavaScript', level: 80 },
+      { name: 'Tailwind CSS', level: 70 },
     ],
   },
   {
     icon: Server,
     title: 'Backend Development',
     skills: [
-      { name: 'Node.js', level: 90 },
-      { name: 'Python', level: 80 },
+      { name: 'Node.js', level: 70 },
+      { name: 'Express.js', level: 70 },
       { name: 'MongoDB', level: 85 },
-      { name: 'REST APIs', level: 95 },
+      { name: 'REST APIs', level: 75 },
     ],
   },
   {
@@ -38,13 +37,6 @@ const skillCategories = [
     skills: [
       { name: 'Vercel', level: 95 },
       { name: 'CI/CD', level: 88 },
-    ],
-  },
-  {
-    icon: Smartphone,
-    title: 'Mobile Development',
-    skills: [
-      { name: 'React Native', level: 70 },
     ],
   },
   {
