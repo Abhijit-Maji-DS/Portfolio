@@ -95,10 +95,10 @@ export default function Footer() {
         {/* Bottom */}
         <div className="pt-8 border-t border-silver/20 dark:border-silver-dark/20 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted dark:text-muted-dark">
-            © {new Date().getFullYear()} Portfolio. All rights reserved.
+            © {new Date().getFullYear()} Abhijit Portfolio. All rights reserved.
           </p>
           <p className="text-sm text-muted dark:text-muted-dark flex items-center gap-1">
-            Made with <Heart className="w-4 h-4 text-red-500 fill-current" /> and React
+            Made with <Heart className="w-4 h-4 text-red-500 fill-current" /> and React.js
           </p>
         </div>
       </div>

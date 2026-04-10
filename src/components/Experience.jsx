@@ -4,7 +4,7 @@ import { Briefcase, GraduationCap } from 'lucide-react';
 
 const experiences = [
   {
-    type: 'work',
+    type: 'education',
     title: 'Frontend Developer',
     company: 'XXXXX',
     period: 'Present',
@@ -12,7 +12,7 @@ const experiences = [
     technologies: ['React', 'JavaScript', 'Next.js', 'Tailwind'],
   },
   {
-    type: 'work',
+    type: 'education',
     title: 'Full Stack Developer',
     company: 'XXXXXX',
     period: 'Present',

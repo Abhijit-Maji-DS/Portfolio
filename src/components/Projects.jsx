@@ -4,31 +4,22 @@ import { ExternalLink, Github, ArrowUpRight } from 'lucide-react';
 
 const projects = [
   {
-    title: 'FinFlow Dashboard',
-    description: 'A comprehensive financial analytics platform with real-time data visualization, portfolio tracking, and AI-powered insights for modern investors.',
+    title: 'Weather-FY',
+    description: 'A weather report platform with real-time fetch location and show weather report to provide mordern view.',
     image: '/images/project2.jpg',
-    tags: ['React', 'TypeScript', 'D3.js', 'Node.js'],
+    tags: ['React', 'JavaScript', 'Tailwind.css', 'api'],
     github: 'https://github.com',
     live: 'https://example.com',
     featured: true,
   },
   {
-    title: 'EcoShop Marketplace',
-    description: 'Sustainable e-commerce platform connecting eco-conscious consumers with environmentally friendly products and local artisans.',
+    title: 'Ecomarce Platfrom',
+    description: 'Sustainable e-commerce platform connecting consumers with environmentally friendly products Sowing.',
     image: '/images/project3.jpg',
-    tags: ['Next.js', 'Prisma', 'Stripe', 'PostgreSQL'],
+    tags: ['React.js', 'Tailwind.css', 'Javascript', 'UI Design'],
     github: 'https://github.com',
     live: 'https://example.com',
     featured: true,
-  },
-  {
-    title: 'Pulse Health App',
-    description: 'Mobile-first health tracking application with personalized wellness recommendations and seamless wearable device integration.',
-    image: '/images/project1.jpg',
-    tags: ['React Native', 'GraphQL', 'MongoDB', 'AWS'],
-    github: 'https://github.com',
-    live: 'https://example.com',
-    featured: false,
   },
 ];
 
