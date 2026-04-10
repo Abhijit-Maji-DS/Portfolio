@@ -8,8 +8,8 @@ const projects = [
     description: 'A weather report platform with real-time fetch location and show weather report to provide mordern view.',
     image: '/images/project2.jpg',
     tags: ['React', 'JavaScript', 'Tailwind.css', 'api'],
-    github: 'https://github.com',
-    live: 'https://example.com',
+    github: 'https://github.com/Abhijit-Maji-DS/Weather-Fy',
+    live: 'https://weather-fy-three.vercel.app/',
     featured: true,
   },
   {
