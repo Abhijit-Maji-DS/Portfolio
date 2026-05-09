@@ -9,7 +9,7 @@ const projects = [
     image: '/images/project2.jpg',
     tags: ['React', 'JavaScript', 'Tailwind.css', 'api'],
     github: 'https://github.com/Abhijit-Maji-DS/Weather-Fy',
-    live: 'https://weather-fy-three.vercel.app/',
+    live: 'https://weather-fy-os.vercel.app/',
     featured: true,
   },
   {
