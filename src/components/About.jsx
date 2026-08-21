@@ -21,7 +21,7 @@ export default function About() {
           >
             <div className="relative aspect-[4/5] rounded-3xl overflow-hidden">
               <img
-                src="/images/profile.jpg"
+                src="/images/profile.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
                 loading="lazy"
